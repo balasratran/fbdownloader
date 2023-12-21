@@ -1,7 +1,7 @@
 # FBDownloader
 <a href="https://fbdownloader.to/en">FBDownloader</a>.to is an online Facebook video downloader. Allows downloading Facebook videos with quality 1080p, 2k, 4k, Download mp3 music on Facebook, convert Facebook videos to mp3 quickly without installing supporting software.
 
-FBDownloader allows download Facebook videos in private mode, download Facebook videos in closed groups, videos in secret groups, download videos in fanpage. FBDownloader.app works on a web browser that supports download Facebook videos on all devices and operating systems such as computers, tablets, phones (iPhone, Android).
+FBDownloader allows download Facebook videos in private mode, download Facebook videos in closed groups, videos in secret groups, download videos in fanpage. FBDownloader.to works on a web browser that supports download Facebook videos on all devices and operating systems such as computers, tablets, phones (iPhone, Android).
 
 Why should you use FBDownloader.to to download Facebook videos?
 
